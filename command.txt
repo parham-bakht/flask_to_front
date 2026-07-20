@@ -3,4 +3,4 @@ active = .venv/Scripts/activate
 Set-ExecutionPolicy Unrestricted
 
 python -m pip install flask
-
+python -m pip install flask_jwt_extended flask_wtf flask_restful pymongo email-validator
